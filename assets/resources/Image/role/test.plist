@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>fyn8f_w1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{576,824}</string>
+                <key>spriteSourceSize</key>
+                <string>{576,824}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{576,824}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>test.png</string>
+            <key>size</key>
+            <string>{576,824}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:98eadba7ab0d11b849c92fbf90b921e4:583eee8506e2a35fc7c4684ad4f3bb82:96fb3d46aab20ec9eb9704de1ab972b6$</string>
+            <key>textureFileName</key>
+            <string>test.png</string>
+        </dict>
+    </dict>
+</plist>
